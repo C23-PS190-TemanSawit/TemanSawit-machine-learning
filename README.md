@@ -34,7 +34,6 @@ width="600" height="300">
 Dataset Link:
 - Train : https://drive.google.com/drive/folders/1_cXUhdfJh4ao9aaUf9u5rV4Up6QYdBut?usp=sharing
 - Validation : https://drive.google.com/drive/folders/172gf2HmEuce8DGKSxsk95QrDFndeLyHu?usp=sharing
-Seedlings Detection : https://www.kaggle.com/datasets/syafitririhandini/palm-oil-seedlings
 
 ### Requirements
 To run the notebook and utilize the model, the following dependencies are required:
