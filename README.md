@@ -20,8 +20,8 @@ TemanSawit has 2 models, an image classification for classifyin oil palm fruit r
 ![image](https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/ab7475b5-ab06-48ce-86f4-1d32fd934232) <br /><br />
 
 Our ripeness classification were trained on 600+ images for 6 different classes, achieving roughly 78% validation accuracy and 75% F1 score. <br />
-![image](https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/d453d3bd-f354-4045-bfc5-fbda604dc122) <br />
-![image](https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/877f00c0-1c47-4e33-af89-2f89cd7782ba) <br /><br />
+<img src="https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/d453d3bd-f354-4045-bfc5-fbda604dc122"  width="300" height="300">
+<img src="https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/877f00c0-1c47-4e33-af89-2f89cd7782ba"  width="300" height="300"><br /><br />
 
 ## Ripeness Classification
 
