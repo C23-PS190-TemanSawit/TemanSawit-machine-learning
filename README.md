@@ -16,7 +16,7 @@ TemanSawit is an app designed to assist middle to lower-scale oil palm farmers i
 
 ## Our Models
 TemanSawit has 2 models, an image classification for classifyin oil palm fruit ripeness, and object detection for detecting oil palm seedlings gender. <br />
-![image](https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/4437aba9-a22e-4644-af53-c6f6b05c52f5) <br />
+![image](https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/4437aba9-a22e-4644-af53-c6f6b05c52f5)
 ![image](https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/ab7475b5-ab06-48ce-86f4-1d32fd934232) <br /><br />
 
 Our ripeness classification were trained on 600+ images for 6 different classes, achieving roughly 78% validation accuracy and 75% F1 score. <br />
