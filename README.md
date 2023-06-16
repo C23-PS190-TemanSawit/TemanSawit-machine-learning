@@ -80,8 +80,3 @@ git clone https://github.com/C23-PS190-TemanSawit/TemanSawit-machine-learning.gi
 6. The train model will be saved automatically if you provide the checkpoint callback.
 7. Convert the model to TFLite format using the provided code and save it as model.tflite.
 8. Use the saved model for inference in your applications.
-
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the license terms.
