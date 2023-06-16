@@ -1,5 +1,5 @@
 # Teman Sawit Machine Learning
-<img src="https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/c9df0052-18b0-4cf4-bc71-fbc79c63e66e"  width="700" height="700"><br /><br />
+<img src="https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/c9df0052-18b0-4cf4-bc71-fbc79c63e66e"  width="400" height="400"><br /><br />
 Repository for Bangkit 2023 Capstone project. Our team consist of 2 Machine Learning, 2 Android, and 2 Cloud Computing. <br />
 
 |          Nama         | Bangkit-ID |       Path       |
