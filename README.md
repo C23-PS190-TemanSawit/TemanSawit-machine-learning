@@ -63,15 +63,6 @@ Optional : Link your google drive by running the first 2 cells. For the exact st
 Dataset Link:
 * [Seedlings Dataset](https://www.kaggle.com/datasets/syafitririhandini/palm-oil-seedlings)
 
-### Requirements
-To run the notebook and utilize the model, the following dependencies are required:
-- Tensorflow
-- Keras
-- Matplotlib
-- NumPy
-- PIL
-- psutil
-
 ### Gender Detection Step
 1. Clone the repository.
 ```bash
