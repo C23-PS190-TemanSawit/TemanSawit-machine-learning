@@ -27,7 +27,6 @@ Our ripeness classification were trained on 600+ images for 6 different classes,
 
 ### Dataset
 Dataset Link:
-Ripeness Classification
 - Train : https://drive.google.com/drive/folders/1_cXUhdfJh4ao9aaUf9u5rV4Up6QYdBut?usp=sharing
 - Validation : https://drive.google.com/drive/folders/172gf2HmEuce8DGKSxsk95QrDFndeLyHu?usp=sharing
 Seedlings Detection : https://www.kaggle.com/datasets/syafitririhandini/palm-oil-seedlings
@@ -58,6 +57,37 @@ Optional : Link your google drive by running the first 2 cells. For the exact st
 5. The train model will be saved automatically if you provide the checkpoint callback.
 6. Use the saved model for inference in your applications.
 
+## Gender Detection
+
+### Dataset
+Dataset Link:
+* [Seedlings Dataset](https://www.kaggle.com/datasets/syafitririhandini/palm-oil-seedlings)
+
+### Requirements
+To run the notebook and utilize the model, the following dependencies are required:
+- Tensorflow
+- Keras
+- Matplotlib
+- NumPy
+- PIL
+- psutil
+
+### Gender Detection Step
+1. Clone the repository.
+```bash
+git clone https://github.com/C23-PS190-TemanSawit/TemanSawit-machine-learning.git
+```
+2. Upload all files to google drive.
+3. Install the required dependencies in your Google Colab
+```bash
+pip install tensorflow keras matplotlib numpy pillow psutil
+```
+4. Navigate to the object detection directory and open the notebooks.
+
+5. Run the cells in the notebook to train the model and evaluate its performance.
+6. The train model will be saved automatically if you provide the checkpoint callback.
+7. Convert the model to TFLite format using the provided code and save it as model.tflite.
+8. Use the saved model for inference in your applications.
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the license terms.
