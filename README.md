@@ -44,7 +44,7 @@ To run the notebook and utilize the model, the following dependencies are requir
 ### Classification Image Step
 1. Clone the repository.
 ```bash
-git clone https://github.com/TemanSawit/TemanSawit-machine-learning.git
+git clone https://github.com/C23-PS190-TemanSawit/TemanSawit-machine-learning.git
 ```
 2. Install the required dependencies.
 ```bash
