@@ -41,7 +41,7 @@ To run the notebook and utilize the model, the following dependencies are requir
 - shutil
 - os
 
-### Classification Image
+### Classification Image Step
 1. Clone the repository.
 ```bash
 git clone https://github.com/TemanSawit/TemanSawit-machine-learning.git
