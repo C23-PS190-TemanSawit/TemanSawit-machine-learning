@@ -74,16 +74,14 @@ Dataset Link:
 git clone https://github.com/C23-PS190-TemanSawit/TemanSawit-machine-learning.git
 ```
 2. Upload all files to google drive.
-3. Install the required dependencies in your Google Colab
-```bash
-pip install tensorflow keras matplotlib numpy pillow psutil
-```
+3. Install the required dependencies.
 4. Navigate to the object detection directory and open the notebooks.
-
 5. Run the cells in the notebook to train the model and evaluate its performance.
 6. The train model will be saved automatically if you provide the checkpoint callback.
 7. Convert the model to TFLite format using the provided code and save it as model.tflite.
 8. Use the saved model for inference in your applications.
+
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the license terms.
