@@ -23,9 +23,9 @@ Our ripeness classification were trained on 600+ images for 6 different classes,
 <img src="https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/d453d3bd-f354-4045-bfc5-fbda604dc122"  width="300" height="300">
 <img src="https://github.com/TemanSawit/TemanSawit-machine-learning/assets/43689683/877f00c0-1c47-4e33-af89-2f89cd7782ba"  width="300" height="300"><br /><br />
 
-Our gender detection were trained on 100 images of seedlings, with total loss < 0.1 <br />
+Our gender detection model were trained on 100 images of seedlings, with total loss < 0.1 <br />
 <img src="https://github.com/C23-PS190-TemanSawit/TemanSawit-machine-learning/assets/104215466/cf82e281-c7b0-47a2-a845-d9d13ea8d83b"
-width="300" height="300">
+width="600" height="300">
 
 
 ## Ripeness Classification
